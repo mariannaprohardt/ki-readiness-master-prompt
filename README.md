@@ -2,7 +2,7 @@
 Das KI-Readiness Master Promt von Marianna Prohardt im Rahmen des Praxismoduls im CMP Studium WINGS
 ## Ziele des Artefakts
 
-Der Master-Prompt soll ein großes Sprachmodell (NotebookLM) so anleiten, dass es aus der bereitgestellten Datenbasis und den Unterlagen automatisiert einen Fragebogen zur Messung der KI-Readiness von Mitarbeitenden erstellt.
+Der Master-Prompt soll ein Sprachmodell so anleiten, dass es aus der bereitgestellten Datenbasis und den Unterlagen automatisiert einen Fragebogen zur Messung der KI-Readiness von Mitarbeitenden erstellt.
 
 ### Inhaltliche Ziele
 1. **Theoriebasierung:** Das Modell schlägt eine oder mehrere geeignete Theorien vor und begründet deren Auswahl für den Anwendungsfall KI-Readiness.
