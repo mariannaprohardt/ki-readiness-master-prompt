@@ -1,4 +1,4 @@
-# Prompt V6.2 – KI-Readiness: Quelleninventar und Fragebogenerstellung
+# Prompt V7– KI-Readiness: Quelleninventar und Fragebogenerstellung
  
 ## Fall-Parameter (vom Menschen festgelegt, austauschbar)
 - Technologie: Microsoft Copilot
