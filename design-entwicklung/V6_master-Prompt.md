@@ -1,11 +1,10 @@
-# Prompt V8 – Quelleninventar und Fragebogenerstellung
+# Prompt V6 – Quelleninventar und Fragebogenerstellung
  
 ## Fall-Parameter (vom Menschen festgelegt, austauschbar)
 - Technologie: Microsoft Copilot
 - Zielgruppe: Beschäftigte ohne KI-Fachausbildung
 - Phase: vor der Einführung
 - Untersuchungsziel: Akzeptanz der geplanten Nutzung
-- Einsatzfelder der Technologie: [vom Menschen eintragen, z. B. Texte entwerfen, zusammenfassen, Daten auswerten, Abläufe planen]
  
 ## Input
 Projektquellen (Paper, Itemkataloge, Itemblätter).
