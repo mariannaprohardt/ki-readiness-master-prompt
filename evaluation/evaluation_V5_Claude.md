@@ -1,4 +1,4 @@
-# NotebookLM_Lauf5_Evaluation
+# Claude_Lauf5_Evaluation
 
 ## 1. Metadaten
 
