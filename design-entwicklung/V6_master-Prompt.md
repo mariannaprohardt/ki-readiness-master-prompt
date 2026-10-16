@@ -1,4 +1,4 @@
-# Prompt V6 – Quelleninventar und Fragebogenerstellung
+# Prompt V6 (war auf der Basis vom gutachter-Lauf des Claude-Evaluation erstellt, nicht mit Ausgabe NotebookLM zusammengefasst)– Quelleninventar und Fragebogenerstellung
  
 ## Fall-Parameter (vom Menschen festgelegt, austauschbar)
 - Technologie: Microsoft Copilot
