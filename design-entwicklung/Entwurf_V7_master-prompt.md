@@ -1,6 +1,6 @@
 # Prompt V7 – Quelleninventar und Fragebogenerstellung (Prompt-Kette)
 Dieser Promt wurde in der Konversation mit Claude erstlele auf der Basis vom V6_NotebookLM.
-
+Wurde nicht getestet wegen Aufwand
 
 **Änderungen gegenüber V6_NotebookLM**
 1. Aufteilung in vier Prompts (P1–P4), weil LLM keine verdeckten Prüfschleifen ausführen kann und das Antwortlimit für Teil I und II zusammen nicht ausreicht.
