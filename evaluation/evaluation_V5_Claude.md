@@ -6,7 +6,7 @@
 |---|---|
 | Evaluierter Lauf | Fragebogen „Akzeptanz Microsoft Copilot (vor Einführung)“ (Word-Datei, Stand 15.10.2026) |
 | Erzeugender Prompt | Prompt V5 (Projektdokument) [eigene Bewertung: aus dem Chatverlauf abgeleitet] |
-| Erzeugendes Modell | NotebookLM (laut Dateiname); Version nicht dokumentiert |
+| Erzeugendes Modell | Claude (laut Dateiname); Version nicht dokumentiert |
 | Gutachten erstellt | 15.10.2026, Gutachter-Prompt „Unabhängige Gutachterin für Fragebogenkonstruktion“ (Kriterien 0, A–D) |
 | Gutachtendes Modell | claude-opus-5-5 (konfiguriert) |
 | Prüfgrundlage | D1 Itemkatalog (Questionnaire 3); P3 Paetow et al. (2026); S2 Sindermann et al. (2021); bibliografische Angaben zusätzlich an P2, S1b |
