@@ -5,9 +5,7 @@
 - Zielgruppe: Beschäftigte ohne KI-Fachausbildung
 - Phase: vor der Einführung
 - Untersuchungsziel: KI-Readiness der Beschäftigten für die geplante Nutzung
-- Arbeitsdefinition KI-Readiness: [vom Menschen eintragen, wörtlich mit Quelle; leer → „nicht festgelegt“]
-- Readiness-Dimensionen: [vom Menschen festlegen; Vorschlag: (1) Kompetenz – Wissen, Fähigkeiten und Selbstwirksamkeit im Umgang mit KI; (2) Einstellung zu KI; (3) Aufgabenbezug und Nutzungsabsicht]
-- Einsatzfelder der Technologie: [vom Menschen eintragen, z. B. Texte entwerfen, zusammenfassen, Daten auswerten, Abläufe planen]
+- Einsatzfelder der Technologie: Texte entwerfen, zusammenfassen, Daten auswerten, Abläufe planen
  
 Arbeitsdefinition und Dimensionen sind Vorgaben des Menschen, keine Quellenangaben. Du übernimmst sie unverändert, ergänzt sie nicht und definierst KI-Readiness nicht selbst. Fehlt die Arbeitsdefinition, vermerke das unter „Offene Punkte“.
  
