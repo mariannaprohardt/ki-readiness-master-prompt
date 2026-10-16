@@ -1,9 +1,9 @@
-# Prompt V7_NotebookLM – Quelleninventar und Fragebogenerstellung (Prompt-Kette)
+# Prompt V7 – Quelleninventar und Fragebogenerstellung (Prompt-Kette)
+Dieser Promt wurde in der Konversation mit Claude erstlele auf der Basis vom V6_NotebookLM.
 
-Dieser Prompt basiert auf V6 (Grundlage: Gutachter-Evaluation des Fragebogens V5 NotebookLM).
 
-**Änderungen gegenüber V6**
-1. Aufteilung in vier Prompts (P1–P4), weil NotebookLM keine verdeckten Prüfschleifen ausführen kann und das Antwortlimit für Teil I und II zusammen nicht ausreicht.
+**Änderungen gegenüber V6_NotebookLM**
+1. Aufteilung in vier Prompts (P1–P4), weil LLM keine verdeckten Prüfschleifen ausführen kann und das Antwortlimit für Teil I und II zusammen nicht ausreicht.
 2. Die Prüfung erfolgt jeweils in einem neuen Chat mit eigenem Prüf-Prompt (echter Rollenwechsel statt Simulation).
 3. Teil II arbeitet nur mit dem geprüften Inventar als einziger ausgewählter Quelle.
 4. Seitenzahlen: Angabe nur, wenn sie im Dokument sichtbar ist; zusätzlich NotebookLM-Zitatmarker.
