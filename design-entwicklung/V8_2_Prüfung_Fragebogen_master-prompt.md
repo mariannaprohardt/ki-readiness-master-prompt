@@ -1,4 +1,4 @@
-# Prompt V7.2 – Prüfprompt: Quelleninventar und Fragebogen (KI-Readiness)
+# Prompt V8.2 – Prüfprompt: Quelleninventar und Fragebogen (KI-Readiness)
 
 Dieser Prompt prüft das Ergebnis des Erstellungsprompts V8.2. Verwende ihn in einem neuen Chat ohne Verlauf aus der Erstellung, damit Begründungen des Entwurfs nicht in die Prüfung einfließen.
 
