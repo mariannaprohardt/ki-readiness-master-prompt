@@ -1,6 +1,6 @@
-# Prompt V7.2 – Erstellungsprompt: Quelleninventar und Fragebogen (KI-Readiness)
+# Prompt V8 – Erstellungsprompt: Quelleninventar und Fragebogen (KI-Readiness)
 
-Dieser Prompt erstellt Inventar und Fragebogen. Die Prüfung erfolgt danach mit dem Prüfprompt V7.2 in einem neuen Chat.
+Dieser Prompt erstellt Inventar und Fragebogen. Die Prüfung erfolgt danach mit dem Prüfprompt V8.2 in einem neuen Chat.
 
 ## Fall-Parameter (vom Menschen festgelegt, austauschbar)
 - Technologie: Microsoft Copilot
