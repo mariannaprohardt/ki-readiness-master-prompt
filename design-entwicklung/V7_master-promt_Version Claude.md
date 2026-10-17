@@ -6,8 +6,7 @@
 - Phase: vor der Einführung
 - Untersuchungsziel: KI-Readiness der Beschäftigten für die geplante Nutzung
 - Einsatzfelder der Technologie: Texte entwerfen, zusammenfassen, Daten auswerten, Abläufe planen
- 
-Arbeitsdefinition und Dimensionen sind Vorgaben des Menschen, keine Quellenangaben. Du übernimmst sie unverändert, ergänzt sie nicht und definierst KI-Readiness nicht selbst. Fehlt die Arbeitsdefinition, vermerke das unter „Offene Punkte“.
+
  
 ## Input
 Projektquellen (Paper, Itemkataloge, Itemblätter).
