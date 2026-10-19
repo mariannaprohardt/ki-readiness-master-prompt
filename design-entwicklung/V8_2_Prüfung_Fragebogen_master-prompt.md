@@ -4,7 +4,7 @@ Dieser Prompt prüft das Ergebnis des Erstellungsprompts V8.2. Verwende ihn in e
 
 ## Input
 1. **Originalquellen** (Paper, Itemkataloge, Itemblätter) = Referenz für Teil I (Inventar)
-2. **Erstellungsprompt V7.2** = Regelwerk und Prüfmaßstab (Fall-Parameter, Goldene Regeln 1–11, Abschnitte 1a–1c und 2.1–2.6, Typische Fehler, Ausgabeformat)
+2. **Erstellungsprompt V8.2** = Regelwerk und Prüfmaßstab (Fall-Parameter, Goldene Regeln 1–11, Abschnitte 1a–1c und 2.1–2.6, Typische Fehler, Ausgabeformat)
 3. **Entwurf** (Teil I und Teil II) = zu prüfendes Ergebnis. Teil I wird zuerst gegen die Originalquellen geprüft; mit den Korrekturen aus deiner Fehlerliste ist er danach die Referenz für Teil II.
 4. **Durchlauf-Nr.:** [1 / 2 / 3 – vom Menschen eintragen]
 5. **Fehlerlisten früherer Durchläufe:** [vom Menschen einfügen oder „keine“]
