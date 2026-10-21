@@ -1,8 +1,8 @@
-# Quelleninventar und Fragebogen KI-Readiness – Version V9n
+# Quelleninventar und Fragebogen KI-Readiness – Version V9
 
 Erstellt nach Erstellungsprompt V8.3 · Fall: Microsoft Copilot · Zielgruppe: Beschäftigte ohne KI-Fachausbildung · Phase: vor der Einführung · Fragebogensprache: Deutsch · Stand: 21.10.2026
 
-Prüfung: mit Prüfprompt V8.3 in einem neuen Chat.
+Prüfung: mit Prüfprompt V9 in einem neuen Chat.
 
 ---
 
