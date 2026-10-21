@@ -4,7 +4,7 @@ Oct 21, 2026 · @Marianna
 
 ## Gesamturteil
 
-**Nicht freigegeben.** Durchlauf 1 ergibt 41 Fehler (Teil I: 20, Teil II: 21) und 85 fehlende Datensätze im Inventar.
+ Durchlauf 1 ergibt 41 Fehler (Teil I: 20, Teil II: 21) und 85 fehlende Datensätze im Inventar.
 
 | Verwendung | Status | Bedingung |
 | --- | --- | --- |
