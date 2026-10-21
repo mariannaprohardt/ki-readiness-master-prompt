@@ -117,12 +117,3 @@ Acht Fehlermuster lassen sich durch präzisere Regeln im Erstellungsprompt verme
 | Versionen und Dateizahl uneinheitlich | Prüfprompt nennt V8.2, Entwurf V8.3; Dateiliste nicht vorgegeben | Versionsnummern angleichen; Durchlauf-Nr. als Pflichtfeld; Dateiliste im Input nennen | 1–3 |
 
 Zur Liste „Typische Fehler“: Der Eintrag „Daten auswerten“ widerspricht dem Wortabgleich, weil kein Item das Wort enthält. Eine kurze Begründung im Prompt würde den Konflikt auflösen.
-
-## Nächste Schritte
-
-- [ ] Im Prüfchat „korrigieren“ eingeben (Schritt 2, korrigierte Fassung V9o)
-- [ ] Durchlauf 2 in neuem Chat mit Prüfprompt, Fehlerliste Durchlauf 1 einfügen
-- [ ] Befragtenfassung ohne Tabellen und Codes erstellen
-- [ ] Pretest mit Kolleg:innen, gezielt zu den Pretest-Prüfpunkten
-- [ ] Rückübersetzung B4–B7 und deutsche Antwortanker beschaffen
-- [ ] Erstellungsprompt V8.4 mit den Rückschlüssen oben
